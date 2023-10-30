@@ -144,10 +144,26 @@ label, .submit_btn {
     body {
         background-color: grey;
     }
+
+    .background_grid {
+        margin: 0;
+    }
+
+    .infoNames {
+        margin: 0;
+    }
 }
 
 @media screen and (max-width: 480px) {
     body {
         background-color: green;
+    }
+
+    .background_grid {
+        margin: 0;
+    }
+
+    .infoNames {
+        margin: 0;
     }
 }
